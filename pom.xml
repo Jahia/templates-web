@@ -57,6 +57,9 @@
         <developerConnection>scm:git:git@github.com:Jahia/templates-web.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
+  <properties>
+    <jahia-module-signature>MCwCFEkmkQasplXAkK/SugTbpbbB0yaiAhQGLnR5ZiC9zlrPndh2trJMBB519A==</jahia-module-signature>
+  </properties>
     <repositories>
         <repository>
             <id>jahia-public</id>
